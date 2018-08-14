@@ -10,5 +10,6 @@ to use open the terminal and type:
 
 type:
 
-   apt-get update
-   apt-get install python3
+        apt-get update
+        apt-get install python3
+every file is a small program you can run (except : pyperclip.py)
