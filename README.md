@@ -1,4 +1,4 @@
-# CRACHIORIO
+# CRACHIO
 a python script to crack encryption [incomplete] and could be used also to encrypt / decrypt
 
 to use open the terminal and type:
@@ -11,5 +11,4 @@ to use open the terminal and type:
 type:
 
    apt-get update
-   
    apt-get install python3
